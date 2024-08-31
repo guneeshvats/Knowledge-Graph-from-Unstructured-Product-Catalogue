@@ -1,0 +1,417 @@
+{
+    "data": [
+        {
+            "ProductIndex": 47660,
+            "ProductUrl": "https://www.becn.com/products/tools-equipment/nails-screws-fasteners/c-602503",
+            "MainCategoryGroup": "products",
+            "MainCategory": "tools equipment",
+            "SubCategory": "nails screws fasteners",
+            "ImageURL": "https://static.becn.com/insecure/plain/images/large/602503_default_hero.jpg",
+            "Brand": "simpson strong tie",
+            "ProductTitle": "Simpson strong and tie 1/4 inches by 2 and 1/4 inches titen ® hex and head screws and box of 100.",
+            "ProductAttributes": [],
+            "ItemID": "602503",
+            "ProductID": "sspttn25214h",
+            "ManufacturerID": "ttn25214h",
+            "ProductDescription": "Titen screws are hardened screws for attaching all types of components to concrete and masonry. These fasteners are commonly used in applications such as attaching electrical boxes, light fixtures or window frames into concrete or masonry base materials.",
+            "Item Number": "602503",
+            "Applicable Standards": [
+                "iso 9001:2008 registered",
+                "florida building code fl2355"
+            ],
+            "Base Material": "carbon steel",
+            "Dimensions": "1/4 inches by 2 and 1/4 inches",
+            "Pieces per Box": "100",
+            "Pieces per Carton": "500",
+            "ProductDocuments": [
+                {
+                    "2019 - 2021 Product Guide (English)": "https://embed.widencdn.net/pdf/plus/ssttoolbox/zjc7nxkcoh/S-A-PG19.pdf"
+                },
+                {
+                    "2019 - 2021 Product Guide (Spanish)": "https://embed.widencdn.net/pdf/plus/ssttoolbox/hfavwsfyw8/S-A-PG19SP.pdf"
+                },
+                {
+                    "Design Information Sheet": "https://embed.widencdn.net/pdf/plus/ssttoolbox/typqhvemj8/C-A-2016-Titen-designinfo.pdf"
+                },
+                {
+                    "Florida Product Approval": "http://www.floridabuilding.org/upload/PR_Tech_Docs/FL2355_R6_AE_SIM201705%20Sealed%202017-10-19.pdf"
+                },
+                {
+                    "Safety Data Sheet (English)": "https://embed.widencdn.net/pdf/plus/ssttoolbox/etj7k9dum1/SDS-MechAnchors-NA-ENG-0520.pdf?u=cjmyin"
+                },
+                {
+                    "Safety Data Sheet (French)": "https://embed.widencdn.net/pdf/plus/ssttoolbox/ygjgooift0/SDS-MechAnchors-NA-FRCA.pdf"
+                },
+                {
+                    "Safety Data Sheet (Spanish)": "https://embed.widencdn.net/pdf/plus/ssttoolbox/jcumilc6up/SDS-MechAnchors-NA-ES.pdf"
+                }
+            ],
+            "GeneratedDescription": " This product is Titen, a brand of Simpson strong tie, a leading manufacturer of fasteners for construction industry. Titen 1/4 inches by 2 and 1/4 inches hex and head screws are designed to provide maximum holding power and durability, making them ideal for commercial and residential construction projects.",
+            "RDF": "@prefix ns1: <http://proxzar.com/productcatalog#> .\n\nns1:sspttn25214h a ns1:Product ;\n    ns1:brand \"simpson strong tie\" ;\n    ns1:category \"tools equipment\" ;\n    ns1:description \"\\\"products titen brand simpson strong tie, leading manufacturer fasteners construction industry . titen 1/4 inches 2 1/4 inches hex head screws designed provide maximum holding power durability making ideal commercial residential construction projects .\\\"\" ;\n    ns1:subCategory \"nails screws fasteners\" ;\n    ns1:title \"Simpson strong and tie 1/4 inches by 2 and 1/4 inches titen ® hex and head screws and box of 100.\" .\n\n"
+        },
+        {
+            "ProductIndex": 3765,
+            "ProductUrl": "https://www.becn.com/products/tools-equipment/hand-tools/c-522389",
+            "MainCategoryGroup": "products",
+            "MainCategory": "tools equipment",
+            "SubCategory": "hand tools",
+            "ImageURL": "https://static.becn.com/insecure/plain/images/large/522389_default_hero.jpg",
+            "Brand": "kemper system",
+            "ProductTitle": "Kemper system 7 inches kemperol ® resin roller nap.",
+            "ProductAttributes": [],
+            "ItemID": "522389",
+            "ProductID": "kem7resrn",
+            "ManufacturerID": "579 00 131",
+            "ProductDescription": "KEMPEROL® Resin Roller Naps are specially designed for applying KEMPEROL® resins, primers and coatings.",
+            "Item Number": "522389",
+            "Length": "7 inches",
+            "ProductDocuments": [
+                {
+                    "Technical Data Sheet": "https://www.kemper-system.com/global/uploads/PDF/USA/Technical_Manual_2020_Version/Section_4_PDSs/Tools/KEMPEROL_RESIN_ROLLER_NAPS.pdf"
+                },
+                {
+                    "Technical Manual": "https://www.kemper-system.com/global/uploads/PDF/USA/Technical_Manual_2020_Version/KEMPER_SYSTEM_AMERICA_TECHNICAL_MANUAL_2020.pdf"
+                }
+            ],
+            "GeneratedDescription": " These roller nap applicators are made with a stiff, versatile fiber blend that holds its shape well without gumming or dripping, even at low solids. Features: Rapid drying. Easy and mess-free clean-up. Good for long-term durability. They are suitable for industrial coatings, manufacturing facilities, and heavy-duty use.",
+            "RDF": "@prefix ns1: <http://proxzar.com/productcatalog#> .\n\nns1:kem7resrn a ns1:Product ;\n    ns1:brand \"kemper system\" ;\n    ns1:category \"tools equipment\" ;\n    ns1:description \"\\\"roller nap applicator stiff versatile fiber blend holds shape gumming dipping low solids . features rapid drying . easy mess free clean . good long term durability . suitable industrial coating manufacturing facilities, heavy duty use .\\\"\" ;\n    ns1:subCategory \"hand tools\" ;\n    ns1:title \"Kemper system 7 inches kemperol ® resin roller nap.\" .\n\n"
+        },
+        {
+            "ProductIndex": 45563,
+            "ProductUrl": "https://www.becn.com/products/roofing/flashings/c-347700",
+            "MainCategoryGroup": "products",
+            "MainCategory": "roofing",
+            "SubCategory": "flashings",
+            "ImageURL": "https://static.becn.com/insecure/plain/images/large/396751_default_hero.jpg",
+            "Brand": "able sheet metal",
+            "ProductTitle": "Able sheet metal 28 gauge by 8 inches by 12 inches step flashing and bundle of 50 charcoal.",
+            "ProductAttributes": [
+                "charcoalbrowngalvanized"
+            ],
+            "ItemID": "396751",
+            "ProductID": "abmsf81228ptch",
+            "ManufacturerID": "2430 ch-28",
+            "ProductDescription": "NA.",
+            "Item Number": "396751",
+            "Dimensions": "8 inches by 12 inches",
+            "Pieces per Bundle": "50",
+            "Thickness": "28 gauge",
+            "ProductDocuments": [
+                {
+                    "Able Sheet Metal Catalog": "http://store-jxfmpy0.mybigcommerce.com/content/26188%20Able%202017%20R1.pdf"
+                }
+            ],
+            "GeneratedDescription": " Assembled Length 8 in.\n\nAble Sheet Metal's 28 Gauge by 8 Inches by 12 Inches Step Flashing and Bundle of 50 Charcoal are top-notch roofing items designed to offer excellent protection against water and weather damage. This item is built to last with high-quality materials and excellent craftsmanship, ensuring a strong and reliable performance over time.",
+            "RDF": "@prefix ns1: <http://proxzar.com/productcatalog#> .\n\nns1:abmsf81228ptch a ns1:Product ;\n    ns1:brand \"able sheet metal\" ;\n    ns1:category \"roofing\" ;\n    ns1:description \"\\\"assembled length 8 . able sheet metal s 28 gauge 8 inches 12 inches step flashing bundle 50 charcoal notch roofing item designed offer excellent protection water weather damage . item built high quality material excellent craftsmanship ensuring\\\" \\\"strong reliable performance time .\\\"\" ;\n    ns1:subCategory \"flashings\" ;\n    ns1:title \"Able sheet metal 28 gauge by 8 inches by 12 inches step flashing and bundle of 50 charcoal.\" .\n\n"
+        },
+        {
+            "ProductIndex": 36944,
+            "ProductUrl": "https://www.becn.com/products/roofing/commercial-insulation/c-488411",
+            "MainCategoryGroup": "products",
+            "MainCategory": "roofing",
+            "SubCategory": "commercial insulation",
+            "ImageURL": "https://static.becn.com/insecure/plain/images/large/488411_default_hero.jpg",
+            "Brand": "insulation technology",
+            "ProductTitle": "Insulation technology 4 inches ca nt strip perlite and 120 lineal feet. Bundle.",
+            "ProductAttributes": [],
+            "ItemID": "488411",
+            "ProductID": "ist4cantp",
+            "ManufacturerID": "na",
+            "ProductDescription": "NA.",
+            "ProductDocuments": [],
+            "GeneratedDescription": " As a knowledgeable salesperson, I would like to introduce you to our premium quality insulation technology 4 inches cant strip perlite for commercial roofing applications. Brand: insulation technology This featured product is part of our extensive line of innovative insulation solutions designed to provide exceptional thermal performance and durability. The perlite insulation strips are 4 inches wide and feature a unique canted design that allows for maximum air flow and temperature resistance.",
+            "RDF": "@prefix ns1: <http://proxzar.com/productcatalog#> .\n\nns1:ist4cantp a ns1:Product ;\n    ns1:brand \"insulation technology\" ;\n    ns1:category \"roofing\" ;\n    ns1:description \"\\\"knowledgeable salesperson, like introduces premium quality insulation technology 4 inches nt strip perlite commercial roofing applications . brand insulation technology featured product extensive line innovative insulation solutions designed provide exceptional thermal performance durability .\\\" \\\"perlite insulation strips 4 inches wide feature unique canted design allows maximum air flow temperature resistance .\\\"\" ;\n    ns1:subCategory \"commercial insulation\" ;\n    ns1:title \"Insulation technology 4 inches ca nt strip perlite and 120 lineal feet. Bundle.\" .\n\n"
+        },
+        {
+            "ProductIndex": 27917,
+            "ProductUrl": "https://www.becn.com/products/siding/trim/c-332510",
+            "MainCategoryGroup": "products",
+            "MainCategory": "siding",
+            "SubCategory": "trim",
+            "ImageURL": "https://static.becn.com/insecure/plain/images/large/369058_default_hero.jpg",
+            "Brand": "mastic",
+            "ProductTitle": "Mastic 19 mm by 24 inches by 50 feet pvc coated trim coil and royal colors soft maple.",
+            "ProductAttributes": [
+                "soft mapledriftwoodvintage cream"
+            ],
+            "ItemID": "369058",
+            "ProductID": "acosrl24txn",
+            "ManufacturerID": "srl24txn",
+            "ProductDescription": "NA.",
+            "Item Number": "369058",
+            "Applicable Standards": [
+                "u.s. green building council member",
+                "nahb member"
+            ],
+            "Length": "50 feet",
+            "Pieces per Carton": "1",
+            "Thickness": "19 mm",
+            "Weight": "26.2 pounds per carton",
+            "Width": "24 inches",
+            "ProductDocuments": [
+                {
+                    "2020 Mastic Specification Guide": "https://www.plygem.com/wp-content/uploads/2020/01/MAS20_Mastic-Spec-Guide-2020_7601099991112_RevF_MS_CG_1219_WEB.pdf"
+                },
+                {
+                    "Mastic Performance Metal Brochure": "https://www.plygem.com/wp-content/uploads/2020/01/2017-Mastic-Performance-Metals.pdf"
+                },
+                {
+                    "SCS Global Services": "https://www.plygem.com/wp-content/uploads/2018/10/plygem_2017_scsmc04979_s_002.pdf"
+                }
+            ],
+            "GeneratedDescription": " The Mastic 19 mm by 24 inches by 50 feet PVC-coated trim coil is made of top-notch high-quality plastic materials with resilient features suited for various construction applications. Mastic siding features soft Maple premium quality wood grain embedded with rich Royal colors that last for a lifetime. The trim is available in various flexible and dimension options to match specific architectural features and design requirements.",
+            "RDF": "@prefix ns1: <http://proxzar.com/productcatalog#> .\n\nns1:acosrl24txn a ns1:Product ;\n    ns1:brand \"mastic\" ;\n    ns1:category \"siding\" ;\n    ns1:description \"\\\"mastic 19 mm 24 inches 50 feet pvc coated trim coil notch high quality plastic material resilient features suited construction applications . mastic siding features soft maple premium quality wood grain embedded rich royal colors lifetime . trim\\\" \\\"available inches flexible dimension option match specific architectural features design requirement .\\\"\" ;\n    ns1:subCategory \"trim\" ;\n    ns1:title \"Mastic 19 mm by 24 inches by 50 feet pvc coated trim coil and royal colors soft maple.\" .\n\n"
+        },
+        {
+            "ProductIndex": 29998,
+            "ProductUrl": "https://www.becn.com/products/roofing/commercial-accessories/c-565443",
+            "MainCategoryGroup": "products",
+            "MainCategory": "roofing",
+            "SubCategory": "commercial accessories",
+            "ImageURL": "https://static.becn.com/insecure/plain/images/large/565443_default_hero.jpg",
+            "Brand": "aco polymer products",
+            "ProductTitle": "Aco polymer products k100 # 1 klassikdrain 1 meter sloped channel with galvanized edge rail.",
+            "ProductAttributes": [],
+            "ItemID": "565443",
+            "ProductID": "ap2k100v01chanws",
+            "ManufacturerID": "na",
+            "ProductDescription": "NA.",
+            "ProductDocuments": [
+                {
+                    "Brand Catalog": "http://view.publitas.com/33358/253257/pdfs/f55b1459aee8b02ffd5ff5b1c2a1396c170a4ef5.pdf"
+                }
+            ],
+            "GeneratedDescription": "the aco polymer products k100 #1 KLASSIKDRAIN 1 METER SLOPED CHANNEL with GALVANIZED EDGE RAIL is a excellent solution for commercial rooftop applications. Manufactured by ACO, a trusted name in the industry, this product is designed for optimum drainage performance and long-lasting durability.",
+            "RDF": "@prefix ns1: <http://proxzar.com/productcatalog#> .\n\nns1:ap2k100v01chanws a ns1:Product ;\n    ns1:brand \"aco polymer products\" ;\n    ns1:category \"roofing\" ;\n    ns1:description \"\\\"aco polymer products k100 1 klassikdrain inches 1 meter sloped channel galvanized edge rail excellent solution commercial rooftop applications . manufactured aco, trusted industry product designed optimum drainage performance long lasting durability .\\\"\" ;\n    ns1:subCategory \"commercial accessories\" ;\n    ns1:title \"Aco polymer products k100 # 1 klassikdrain 1 meter sloped channel with galvanized edge rail.\" .\n\n"
+        },
+        {
+            "ProductIndex": 46200,
+            "ProductUrl": "https://www.becn.com/products/siding/stone-venner/c-582527",
+            "MainCategoryGroup": "products",
+            "MainCategory": "siding",
+            "SubCategory": "stone venner",
+            "ImageURL": "https://static.becn.com/insecure/plain/images/large/578797_default_hero.jpg",
+            "Brand": "eldorado stone",
+            "ProductTitle": "Eldorado stone romabrick flat brick and 6 square. Ft. Box Brolio.",
+            "ProductAttributes": [
+                "broliocastellobracciano"
+            ],
+            "ItemID": "578797",
+            "ProductID": "eldbrf0043sb",
+            "ManufacturerID": "brf-0043",
+            "ProductDescription": "RomaBrick is a wider-proportioned profile. The irregular shape projects enormous visual interest. With a slightly thicker form, RomaBrick offers excellent opportunity for blending with other Eldorado Stone profiles.",
+            "Item Number": "578797",
+            "Applicable Standards": [
+                "fsc certified",
+                "ul certified",
+                "icc es certified"
+            ],
+            "Area": "6 square feet per box",
+            "ProductDocuments": [
+                {
+                    "2018 Eldorado Stone Brick Brochure": "https://www.eldoradostone.com/wp-content/uploads/2016/01/Eldorado-Stone-Brick-Broch-122717-Web.pdf"
+                },
+                {
+                    "Care & Maintenance Sheet": "https://www.eldoradostone.com/wp-content/uploads/2016/01/ES_Care_and_Maintenance_2018.pdf"
+                },
+                {
+                    "ICC-ES Evaluation Report": "https://www.eldoradostone.com/wp-content/uploads/2016/01/ESR-1215_010521.pdf"
+                },
+                {
+                    "Safety Data Sheet": "https://www.eldoradostone.com/wp-content/uploads/2016/04/Eldorado-Stone-SDS-2.pdf"
+                },
+                {
+                    "Stone 101 Guide": "https://enrichment.eldoradostone.com/hubfs/Campaigns/2015.11.Stone_101_Guide/ELDO-S-10272-Stone101Guide.pdf"
+                },
+                {
+                    "Warranty Information": "https://www.eldoradostone.com/wp-content/uploads/2020/10/BSD-ES-Warranty-092920.pdf"
+                }
+            ],
+            "GeneratedDescription": " The distinctive profiles simulate the look of old-world brick laying techniques. These techniques, further highlight the top edge of the brick, creating a defined subtle lip. The texture of the history on each RomaBrick is inherent in the colors and consistency of the profile\nThe Brand eldorado stone is smoothly bearing an array of clout siding options that have far-reaching influence on the building industry.",
+            "RDF": "@prefix ns1: <http://proxzar.com/productcatalog#> .\n\nns1:eldbrf0043sb a ns1:Product ;\n    ns1:brand \"eldorado stone\" ;\n    ns1:category \"siding\" ;\n    ns1:description \"\\\"dist inchesctive profiles simulate look old world brick laying technique . technique highlight edge brick creating defined subtle lip . texture history romabrick inherent colors consistency profile brand eldorado stone smoothly\\\" \\\"bearing array clout siding option far reaching influence building industry .\\\"\" ;\n    ns1:subCategory \"stone venner\" ;\n    ns1:title \"Eldorado stone romabrick flat brick and 6 square. Ft. Box Brolio.\" .\n\n"
+        },
+        {
+            "ProductIndex": 12234,
+            "ProductUrl": "https://www.becn.com/products/roofing/residential-roofing/c-306219",
+            "MainCategoryGroup": "products",
+            "MainCategory": "roofing",
+            "SubCategory": "residential roofing",
+            "ImageURL": "https://static.becn.com/insecure/plain/images/large/354417_default_hero.jpg",
+            "Brand": "gaf",
+            "ProductTitle": "Gaf 8 and 7/8 inches to 11 inches masterflow ® aluminum adjustable versa cap.",
+            "ProductAttributes": [],
+            "ItemID": "354417",
+            "ProductID": "gafvc9011",
+            "ManufacturerID": "9011",
+            "ProductDescription": "Master Flow Versa Cap is a non-clogging with positive draft design for chimney, flue, or hot stack installation. It comes with clamp fitting that's adjustable for all standard sizes.",
+            "Item Number": "354417",
+            "Applicable Standards": "ul listed",
+            "Base Material": "aluminum",
+            "Height": "6 and 1/2 inches",
+            "Pieces per Carton": "6",
+            "Weight": "21.5 pounds",
+            "ProductDocuments": [
+                {
+                    "Adjustable Versa Caps Brochure": "https://www.gaf.com/en-us/document-library/documents/productdocuments/otherbuildingproductsdocuments/ductworkdocuments/ductworkrooftopventingdocuments/ductworkmasterflowversacapdocuments/adjustable_versa_caps_brochure.pdf"
+                },
+                {
+                    "Product Video": "https://www.youtube.com/embed/I93fuwfi5tU"
+                },
+                {
+                    "Ventilation Full Line Brochure": "https://www.gaf.com/en-us/document-library/documents/Ventilation_Full_Line_Brochure__RESCB100.pdf"
+                },
+                {
+                    "Warranty Information": "https://www.gaf.com/en-us/document-library/documents/productdocuments/residentialroofingdocuments/atticventilationproductsdocuments/intakeventsdocuments/rooftopintakeventsdocuments/cobraintakeprodocuments/Warranty__Master_Flow_Ventilation_Products_Limited_498.pdf"
+                }
+            ],
+            "GeneratedDescription": " Ideal for performance-tuned fireplaces and fireplaces up to 800Mbh; Evenly distributes the flow of heated air. Versatile and easy to install, fits all standard chimney pipe sizes and is suitable for both masonry and factory-built fireplaces.",
+            "RDF": "@prefix ns1: <http://proxzar.com/productcatalog#> .\n\nns1:gafvc9011 a ns1:Product ;\n    ns1:brand \"gaf\" ;\n    ns1:category \"roofing\" ;\n    ns1:description \"\\\"ideal performance tuned fireplace fireplace 800 mbh evenly distributes flow heated air . versatile easy install fits standard chimney pipe sizes suitable masonry factory built fireplace .\\\"\" ;\n    ns1:subCategory \"residential roofing\" ;\n    ns1:title \"Gaf 8 and 7/8 inches to 11 inches masterflow ® aluminum adjustable versa cap.\" .\n\n"
+        },
+        {
+            "ProductIndex": 53130,
+            "ProductUrl": "https://www.becn.com/products/tools-equipment/hand-tools/c-557592",
+            "MainCategoryGroup": "products",
+            "MainCategory": "tools equipment",
+            "SubCategory": "hand tools",
+            "ImageURL": "https://static.becn.com/insecure/plain/images/large/557592_default_hero.jpg",
+            "Brand": "tri built",
+            "ProductTitle": "Tri and built 2 inches by 5 inches margin trowel.",
+            "ProductAttributes": [],
+            "ItemID": "557592",
+            "ProductID": "tri77106",
+            "ManufacturerID": "cutedge77106",
+            "ProductDescription": "TRI-BUILT® Margin Trowel is a small, flat-nosed hand tool used to work mortar in tight spaces and corners. TRI-BUILT® provides quality residential and commercial building materials that deliver professional results. By focusing on the professional contractor, TRI-BUILT® has become a recognized and trusted leader in the construction industry. From roofing and siding materials, windows, coatings, and more, TRI-BUILT® is a name you can trust at a competitive price.",
+            "Item Number": "557592",
+            "Dimensions": "5 inches by 2 inches",
+            "Length": "5 inches",
+            "Width": "2 inches",
+            "ProductDocuments": [],
+            "GeneratedDescription": " But what sets this trowel apart from others in its class? Here are some essential features of the TRI-BUILT® Margin Trowel that make it a must-have for any serious construction professional: Each margin trowel features a durable 2-inch x 5-inch fiberglass handle for optimum grip and control. This means you can work for longer periods without fatigue.",
+            "RDF": "@prefix ns1: <http://proxzar.com/productcatalog#> .\n\nns1:tri77106 a ns1:Product ;\n    ns1:brand \"tri built\" ;\n    ns1:category \"tools equipment\" ;\n    ns1:description \"\\\"sets trowel apart inches class essential features tri built u00ae margin trowel construction professional margin trowel features durable 2 inch 5 inch fiberglass handle optimum grip control . means\\\" \\\"work longer period fatigue .\\\"\" ;\n    ns1:subCategory \"hand tools\" ;\n    ns1:title \"Tri and built 2 inches by 5 inches margin trowel.\" .\n\n"
+        },
+        {
+            "ProductIndex": 8426,
+            "ProductUrl": "https://www.becn.com/products/roofing/commercial-accessories/c-540730",
+            "MainCategoryGroup": "products",
+            "MainCategory": "roofing",
+            "SubCategory": "commercial accessories",
+            "ImageURL": "https://static.becn.com/insecure/plain/images/large/550620_default_hero.jpg",
+            "Brand": "neogard",
+            "ProductTitle": "Neogard two and component moisture tolerant epoxy base ( part and a only ) and 2 gallon can tile red.",
+            "ProductAttributes": [
+                "tile redlight greydark grey"
+            ],
+            "ItemID": "550620",
+            "ProductID": "neo7071405002",
+            "ManufacturerID": "70714 05 002",
+            "ProductDescription": "Moisture tolerant base ( part a ) for 70714/70715 two and component epoxy is 100 % solids epoxy resin. Near water clear and exhibits no amine blush when used in humid environments. Super low viscosity for deep penetration into concrete. Uniform wetting of filler aggregates. Excellent chemical and water resistance.",
+            "Item Number": "550620",
+            "Applicable Standards": [
+                "astm d638",
+                "astm d695",
+                "astm d790",
+                "astm d570",
+                "astm e96",
+                "astm d4060",
+                "astm d2240",
+                "astm d4541",
+                "astm d635",
+                "astm d4209",
+                "astm d3278",
+                "epa method 24",
+                "leed"
+            ],
+            "ProductDocuments": [
+                {
+                    "LEED Product Information": "https://www.neogard.com/Portals/0/NeogardDocBuilder/SupportLiterature/LEED-Miscellaneous.pdf"
+                },
+                {
+                    "Product Data Sheet": "https://www.neogard.com/Portals/0/NeogardDocBuilder/Uploaded%20Docs/70714-70715-PDS.pdf"
+                },
+                {
+                    "Product Specification Guide": "https://www.neogard.com/Portals/0/NeogardDocBuilder/Uploaded%20Docs/AutoGardE-GSCSI.pdf"
+                },
+                {
+                    "Trench Drain Drawing Details": "https://www.neogard.com/portals/0/NeogardDocBuilder/Details/FLOR_trench-drain.pdf"
+                }
+            ],
+            "GeneratedDescription": " Cures in 6 to 8 hours at 70 degrees F. Free flowing 2 component system. Supplied in durable 2 gallon pails with heavy duty polyethylene liners. components ( part b ) 100 % solids epoxy resin and hardener ( not included ) are mixed together before use. Mixing and pot life are product dependent and require careful attention to conditions for proper mixing.",
+            "RDF": "@prefix ns1: <http://proxzar.com/productcatalog#> .\n\nns1:neo7071405002 a ns1:Product ;\n    ns1:brand \"neogard\" ;\n    ns1:category \"roofing\" ;\n    ns1:description \"\\\"cures inches 6 8 hour 70 degree f. free flow inchesg 2 component system . supplied durable 2 gallon pail heavy duty polyethylene liner . components b 100 solids epoxy resin hardener included mixed use . mixing pot\\\" \\\"life product dependent require careful attention conditions proper mixing .\\\"\" ;\n    ns1:subCategory \"commercial accessories\" ;\n    ns1:title \"Neogard two and component moisture tolerant epoxy base ( part and a only ) and 2 gallon can tile red.\" .\n\n"
+        },
+        {
+            "ProductIndex": 39034,
+            "ProductUrl": "https://www.becn.com/products/roofing/commercial-accessories/c-262602",
+            "MainCategoryGroup": "products",
+            "MainCategory": "roofing",
+            "SubCategory": "commercial accessories",
+            "ImageURL": "https://static.becn.com/insecure/plain/images/large/262602_default_hero.jpg",
+            "Brand": "portals plus",
+            "ProductTitle": "Portals Plus Medium EPDM Pipe Boot 1\"-6\" Black.",
+            "ProductAttributes": [
+                "black"
+            ],
+            "ItemID": "262602",
+            "ProductID": "pplpbmb",
+            "ManufacturerID": "42110",
+            "ProductDescription": "Furnish and install the portals plus medium pipe boot at all points where any projection penetrates the roof system , and is less than 6 inches inches diameter. The medium pipe boot shall include 60 mm epdm or neoprene compression molded body and shall include 70 mm pvc ( polyvinyl chloe and ride ) or tpo ( thermoplastic olefin ) injection molded body. The Medium Pipe Boot shall also include Portals Plus' Snaplock Clamp. Whenever necessary utilize portals plus adapters to seal to square tubing and angle iron and for round penetrations less than 1 inches inches diameter. Use white or black as necessary. Attachment of Medium Pipe Boot to roof system shall be done in accordance with Portals Plus Installation Instructions and the roofing membrane manufacturer's requirements.",
+            "Item Number": "262602",
+            "Base Material": "epdm",
+            "ProductDocuments": [
+                {
+                    "Installation Instructions": "http://www.portalsplus.com/assets/files/so/installation-instructionspipeflashings.pdf"
+                },
+                {
+                    "PRP Catalog": "https://www.portalsplus.com/files/assets/files/1465245309_PRP_Catalog_3001190_web.pdf"
+                }
+            ],
+            "GeneratedDescription": " Material: steel - galvanized and aluminum Inlets shall be fabricated from approved materials for the intended service. Material Approvals: ANSI/NSF Standard 61 Certification Note: specific products and components may not be near currently available, but the overall product category and brand details are consistent with industry standards.",
+            "RDF": "@prefix ns1: <http://proxzar.com/productcatalog#> .\n\nns1:pplpbmb a ns1:Product ;\n    ns1:brand \"portals plus\" ;\n    ns1:category \"roofing\" ;\n    ns1:description \"\\\"material steel galvanized aluminum inlet shall fabricated approved material intended service . material approval ansi / nsf standard 61 certification note specific products components near currently available overall product category brand details consistent industry standards .\\\"\" ;\n    ns1:subCategory \"commercial accessories\" ;\n    ns1:title \"Portals Plus Medium EPDM Pipe Boot 1\\\"-6\\\" Black.\" .\n\n"
+        },
+        {
+            "ProductIndex": 39447,
+            "ProductUrl": "https://www.becn.com/products/roofing/residential-roofing/c-268059",
+            "MainCategoryGroup": "products",
+            "MainCategory": "roofing",
+            "SubCategory": "residential roofing",
+            "ImageURL": "https://static.becn.com/insecure/plain/images/large/268065_default_hero.jpg",
+            "Brand": "tarco",
+            "ProductTitle": "Tarco # 90 fiberglass mineral surfaced roll roofing weatherwood.",
+            "ProductAttributes": [
+                "weatherwoodgreenwhite"
+            ],
+            "ItemID": "268065",
+            "ProductID": "tar90ww",
+            "ManufacturerID": "na",
+            "ProductDescription": "Fiberglass Mineral Surfaced Roll Roofing is a glass fiber reinforced asphalt coated product with a ceramic granular surface to protect against UV, weathering and physical damage. It is lightly coated with a mineral release material on the bottom side.",
+            "Item Number": "268065",
+            "Applicable Standards": [
+                "astm d3909",
+                "ul classified"
+            ],
+            "Area": "108 square feet per roll",
+            "Length": "36 feet",
+            "Weight": "72 pounds",
+            "Width": "36 inches",
+            "ProductDocuments": [
+                {
+                    "2021 Tarco Product Guide": "https://www.tarcoroofing.com/images/pdf/QRProductGuide2021.pdf"
+                },
+                {
+                    "Application Instructions": "https://www.tarcoroofing.com/images/pdf/MSRRApplicationInstructions.pdf"
+                },
+                {
+                    "Product Application Video": "https://www.youtube.com/embed/LPM5xk2AdtQ"
+                },
+                {
+                    "Product Data Sheet": "https://www.tarcoroofing.com/images/pdf/MSRR.pdf"
+                },
+                {
+                    "Safety Data Sheet": "https://www.tarcoroofing.com/images/pdf/SDS-FiberglassMineralSurfacedRollRoofing.pdf"
+                }
+            ],
+            "GeneratedDescription": " It provides the coverage of 3-secure seams. Weatherwood offers good hide and excellent adhesion to new or existing surfaces. It offers a grayish brown color to blend with the natural surroundings and has a total thickness of 4 feet with a roll width of 13 feet. This product is ideal for low slope residential roof installation on rake, hipped, and gambrel style roofs.",
+            "RDF": "@prefix ns1: <http://proxzar.com/productcatalog#> .\n\nns1:tar90ww a ns1:Product ;\n    ns1:brand \"tarco\" ;\n    ns1:category \"roofing\" ;\n    ns1:description \"\\\"provides coverage 3 secure seams . weatherwood offers good hide excellent adhesion new existing surfacer . offers grayish brown color blend natural surrounding total thickness 4 feet roll width 13 feet . product ideal\\\" \\\"low slope residential roof installation rake hipped, gambrel style roofs .\\\"\" ;\n    ns1:subCategory \"residential roofing\" ;\n    ns1:title \"Tarco # 90 fiberglass mineral surfaced roll roofing weatherwood.\" .\n\n"
+        }
+    ],
+    "version": "5.0"
+}

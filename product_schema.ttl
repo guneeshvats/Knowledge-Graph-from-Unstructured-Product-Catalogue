@@ -1,0 +1,23 @@
+@prefix ex: <http://proxzar.com/> .
+@prefix schema: <http://proxzar-schema.com/> .
+
+schema:Product a rdf:Class .
+schema:hasBrand a rdf:Property ; rdfs:domain schema:Product ; rdfs:range schema:Brand .
+schema:hasCategory a rdf:Property ; rdfs:domain schema:Product ; rdfs:range schema:Category .
+schema:hasDescription a rdf:Property ; rdfs:domain schema:Product ; rdfs:range xsd:string .
+schema:hasApplicableStandards a rdf:Property ; rdfs:domain schema:Product ; rdfs:range xsd:string .
+schema:hasArea a rdf:Property ; rdfs:domain schema:Product ; rdfs:range xsd:string .
+schema:hasBaseMaterial a rdf:Property ; rdfs:domain schema:Product ; rdfs:range xsd:string .
+schema:hasDimensions a rdf:Property ; rdfs:domain schema:Product ; rdfs:range schema:Dimensions .
+schema:Dimensions a rdf:Class .
+schema:hasHeight a rdf:Property ; rdfs:domain schema:Dimensions ; rdfs:range xsd:float .
+schema:hasLength a rdf:Property ; rdfs:domain schema:Dimensions ; rdfs:range xsd:float .
+schema:hasThickness a rdf:Property ; rdfs:domain schema:Dimensions ; rdfs:range xsd:float .
+schema:hasWeight a rdf:Property ; rdfs:domain schema:Dimensions ; rdfs:range xsd:float .
+schema:hasWidth a rdf:Property ; rdfs:domain schema:Dimensions ; rdfs:range xsd:float .
+schema:MainCategory a rdf:Class .
+schema:SubCategory a rdf:Class .
+
+schema:Brand a rdf:Class .
+schema:Category a rdf:Class .
+
