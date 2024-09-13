@@ -10,3 +10,10 @@ Task : To build a knowledge graph which has the info of the whole product catalo
 
 ## Steps to run the project 
 1. Using the structured data in filename I converted it into jsonl fomnat and that data is in `training_data_jsonl_format.jsonl`. Passing in the schema of the product catalogue (shcema is in `product_schema.ttl`) as part of the system prompt to prevent - hallucination or catastrophic forgetting.,
+
+
+## Folder Structure
+```
+|
+|
+```
