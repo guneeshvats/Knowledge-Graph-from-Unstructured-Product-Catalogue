@@ -11,13 +11,13 @@ Task : To build a knowledge graph which has the info of the whole product catalo
 ## Steps to run the project 
 0. Make sure you have the synthetic data generated using the `generate_synthetic_data.py` file using the dataset given in json format - `becn_data.json`
 1. Using the structured data in filename I converted it into jsonl fomnat and that data is in `training_data_jsonl_format.jsonl`. Passing in the schema of the product catalogue (shcema is in `product_schema.ttl`) as part of the system prompt to prevent - hallucination or catastrophic forgetting.,
-2. Then run the `fine_tune.py` code. 
+2. Then run the `fine_tune.py` code.
+3. After Fine tuning you can query the model with the file - `query_after_training.py` file where you can query about the data and even pass in new data which it will convert into a KG and you can query it
 
 ## Hyperparameters we can manipulate 
 (table) 
 
 ## Folder Structure
 ```
-|
-|
+
 ```
