@@ -17,6 +17,9 @@ Task : To build a knowledge graph which has the info of the whole product catalo
 ## Hyperparameters we can manipulate 
 (table) 
 
+## Major set of steps done for the task
+1. 
+
 ## Folder Structure
 ```
 
