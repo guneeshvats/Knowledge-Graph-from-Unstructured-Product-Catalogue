@@ -1,4 +1,4 @@
-# 🧠 Knowledge Graph from Unstructured Product Catalogue
+# Knowledge Graph from Unstructured Product Catalogue
 
 This project focuses on converting unstructured product descriptions into structured knowledge graphs based on a custom ontology. The result is a system where you can extract, infer, and query product information in a structured and meaningful way.
 
