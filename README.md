@@ -98,3 +98,4 @@ python query_after_training.py
 
 ## Points of Improvement 
 1. The Fine Tuning Process
+2. 
