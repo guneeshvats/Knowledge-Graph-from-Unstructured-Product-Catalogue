@@ -90,10 +90,11 @@ python query_after_training.py
 
 ---
 
-To be continued...
-
 ## 📌 Notes
 - Schema-awareness is critical. We include the ontology during fine-tuning to avoid hallucinations and preserve concept consistency.
 - The knowledge graph can be visualized or queried after extraction, enabling rich product analytics and metadata exploration.
 
 ---
+
+## Points of Improvement 
+1. The Fine Tuning Process
